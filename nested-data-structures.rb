@@ -5,3 +5,4 @@ _eyes", "lithium", "24/7"],
 :ashlee => ["white_rabbit", "for_forever", "full_disclosure"]
 }
 puts group_sam[:sam][1]
+puts group_sam[:natalia][0]
